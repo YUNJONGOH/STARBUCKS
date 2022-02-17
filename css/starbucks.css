@@ -309,25 +309,25 @@ section.s2 .swiper .swiper-slide-active {
     z-index: 100; /*맨 앞으로 배치*/
 }
 section.s2 .swiper .s1 {
-    background-image:url(../img/s2-1.PNG);
+    background-image:url(../img/s2-1.png);
 }
 section.s2 .swiper .s2 {
-    background-image:url(../img/s2-2.PNG);
+    background-image:url(../img/s2-2.png);
 }
 section.s2 .swiper .s3 {
     background-image:url(../img/s2-3.png);
 }
 section.s2 .swiper .s4 {
-    background-image:url(../img/s2-4.PNG);
+    background-image:url(../img/s2-4.png);
 }
 section.s2 .swiper .s5 {
-    background-image:url(../img/s2-5.PNG);
+    background-image:url(../img/s2-5.png);
 }
 section.s2 .swiper .s6 {
-    background-image:url(../img/s2-6.PNG);
+    background-image:url(../img/s2-6.png);
 }
 section.s2 .swiper .s7 {
-    background-image:url(../img/s2-7.PNG);
+    background-image:url(../img/s2-7.png);
 }
 section.s2 .swiper .swiper-button-next {
     text-indent:-9999px; /*들여쓰기*/
